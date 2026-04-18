@@ -24,6 +24,7 @@ A curated list of awesome Model Context Protocol (MCP) servers. MCP is an open p
 
 <br />
 
+- [jpi-guard](https://github.com/nexus-api-lab/nexus-mcp) - Detects Japanese-language prompt injection attacks via the jpi-guard REST API; MCP-native tool for real-time input scanning. Covers OWASP LLM01:2025 for Japanese text.
 ## Examples of Supported Clients
 
 |                                                                                                                                                                                          | MCP Host                                                                    | Documentation                                                                                       |
